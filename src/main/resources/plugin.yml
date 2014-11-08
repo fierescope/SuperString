@@ -1,0 +1,7 @@
+name: SuperString
+main: gmail.fierescope.SuperString.SuperString
+version: 1.1
+permissions:
+    superstring.grapple:
+        description: Allows you to grapple onto blocks
+        default: true
