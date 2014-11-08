@@ -1,0 +1,7 @@
+plugin:
+    # removes string from player based on distance grappled 
+    # (true may cause a tiny bit of lag when used a lot)
+    use-string: true
+#player UUID and respective record distance
+db:
+    Example-Player: 113
